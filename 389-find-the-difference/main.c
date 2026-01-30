@@ -1,3 +1,7 @@
+/*
+* https://leetcode.com/problems/find-the-difference/description/?envType=study-plan-v2&envId=programming-skills
+*/
+
 #include <stdio.h>
 char
 findTheDifference(char* s, char* t)
